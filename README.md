@@ -12,6 +12,9 @@ uv sync
 
 # start fastapi
 fastapi dev
+
+# run tests
+pytest
 ```
 
  
